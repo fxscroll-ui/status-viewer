@@ -1,1 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Budget Control Status Viewer</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="header">
+  <div class="header-inner">
+    <div>
+      <div class="eyebrow">2026 BUDGET CONTROL</div>
+      <h1>Transaction Status Viewer</h1>
+      <p>Search and monitor procurement-related transactions.</p>
+    </div>
+    <span class="badge">PUBLIC VIEW</span>
+  </div>
+</header>
 
+<main class="container">
+  <section class="stats">
+    <div class="card"><small>Transactions</small><strong id="total">—</strong></div>
+    <div class="card"><small>With Status</small><strong id="withStatus">—</strong></div>
+    <div class="card"><small>Pending</small><strong id="pending">—</strong></div>
+    <div class="card"><small>Estimated Total</small><strong id="amount">—</strong></div>
+  </section>
+
+  <section class="panel">
+    <div class="controls">
+      <div class="grow">
+        <label for="search">Search</label>
+        <input id="search" type="search" placeholder="Transaction, PR/SoW/ToR, particulars, DV number...">
+      </div>
+      <button id="clear" type="button">Clear filters</button>
+    </div>
+    <div class="filters">
+      <div><label for="department">Department</label><select id="department"><option value="">All departments</option></select></div>
+      <div><label for="status">Status</label><select id="status"><option value="">All statuses</option></select></div>
+      <div><label for="account">Account Code</label><select id="account"><option value="">All account codes</option></select></div>
+      <div><label for="pageSize">Rows</label><select id="pageSize"><option>10</option><option selected>25</option><option>50</option><option>100</option></select></div>
+    </div>
+    <div class="resultbar"><span id="count">Loading…</span><span id="updated"></span></div>
+  </section>
+
+  <section class="panel">
+    <div id="loading" class="message">Loading transaction database…</div>
+    <div id="error" class="message error hidden"></div>
+    <div id="empty" class="message hidden">No matching transactions.</div>
+    <div id="tableBox" class="tablebox hidden">
+      <table>
+        <thead>
+          <tr>
+            <th data-key="transactionNumber">Transaction</th>
+            <th data-key="particulars">Particulars</th>
+            <th data-key="department">Department</th>
+            <th data-key="estimatedAmount">Estimated Amount</th>
+            <th data-key="referenceNumber">PR/SoW/ToR No.</th>
+            <th data-key="dvNumber">DV No.</th>
+            <th data-key="status">Status</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <div class="pagination">
+      <button id="prev" type="button">Previous</button>
+      <span id="page">Page 1</span>
+      <button id="next" type="button">Next</button>
+    </div>
+  </section>
+</main>
+
+<footer>Budget Control Status Viewer · Data source: Transactions</footer>
+<script src="js/app.js"></script>
+</body>
+</html>
