@@ -1,36 +1,320 @@
 {
-  "meta": {"source":"2026 Budget Control.xlsx","sheet":"Transactions","generatedAt":"2026-08-12T14:18:54.6156303+08:00","recordCount":31},
-  "transactions": [
-    {"transactionNumber":"SBO-26-001","accountCode":"TRU Fund","particulars":"Supplies","department":"T/L","estimatedAmount":3920,"referenceNumber":"2026-01-002-A","dvNumber":"2026-02-0286","status":"MTO - Pending"},
-    {"transactionNumber":"SBO-26-002","accountCode":"5-02-99-990","particulars":"Trolley Wheels","department":"1021","estimatedAmount":1605,"referenceNumber":"2026-01-009-C","dvNumber":"2026-05-0752","status":"MTO - Pending"},
-    {"transactionNumber":"SBO-26-003","accountCode":"5-02-99-010","particulars":"Publication of Ord 1,2,3","department":"1021","estimatedAmount":90000,"referenceNumber":"2026-02-014-G","dvNumber":"2026-04-0663","status":"MTO - Released"},
-    {"transactionNumber":"SBO-26-004","accountCode":"5-02-99-990","particulars":"Athletes T-Shirt 1","department":"1016","estimatedAmount":233600,"referenceNumber":"2026-01-004-C","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-005","accountCode":"5-02-99-990","particulars":"Electric Service Line","department":"1021","estimatedAmount":9101,"referenceNumber":"2026-03-071","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-006","accountCode":"5-02-99-990","particulars":"SB Session Hall - Backdrop","department":"1021","estimatedAmount":22639,"referenceNumber":"2026-03-070","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-007","accountCode":"5-02-03-010","particulars":"Supplies - SINDACO","department":"1021","estimatedAmount":47933,"referenceNumber":"2026-03-092","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-008","accountCode":"Capital Outlay","particulars":"Laptop - SINDACO","department":"1016","estimatedAmount":100000,"referenceNumber":"2026-04-144","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-008A","accountCode":"5-02-99-990","particulars":"Laptop - SINDACO","department":"1016","estimatedAmount":56585,"referenceNumber":"2026-04-144","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-008B","accountCode":"5-02-99-990","particulars":"Gargar - Tshirt","department":"1016","estimatedAmount":19720,"referenceNumber":"2026-01-033-C","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-008C","accountCode":"5-02-99-990","particulars":"Gargar - Pump","department":"1016","estimatedAmount":4950,"referenceNumber":"2026-01-033-D","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-008D","accountCode":"5-02-99-990","particulars":"Tan - Genesis (Materials)","department":"1016","estimatedAmount":12781,"referenceNumber":"2026-03-107-A","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-009","accountCode":"5-02-99-990","particulars":"NIG Marketing","department":"1021","estimatedAmount":81346.24,"referenceNumber":"2026-03-121","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-010","accountCode":"5-02-99-990","particulars":"LITO M. PALMA, JR.","department":"1016","estimatedAmount":5528,"referenceNumber":"2026-05-177-A","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-011","accountCode":"5-02-99-990","particulars":"Athletes T-Shirt 2","department":"1016","estimatedAmount":37400,"referenceNumber":"2026-04-149","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-012","accountCode":"5-02-99-990","particulars":"Caningay T-Shirts","department":"1016","estimatedAmount":6300,"referenceNumber":"2026-05-161","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-013","accountCode":"TRU Fund","particulars":"Body Plate","department":"T/L","estimatedAmount":8850,"referenceNumber":"JO","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-014","accountCode":"5-02-99-990","particulars":"MARJELYN","department":"1021","estimatedAmount":14689,"referenceNumber":"2026-05-169","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-015","accountCode":"5-02-99-990","particulars":"LITO M. PALMA, JR.","department":"1016","estimatedAmount":7215,"referenceNumber":"2026-03-081-A","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-016","accountCode":"5-02-99-990","particulars":"Genesis","department":"1016","estimatedAmount":6100,"referenceNumber":"2026-05-186","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-017","accountCode":"5-02-99-990","particulars":"Derecho FA","department":"1021","estimatedAmount":15000,"referenceNumber":"N/A","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-018","accountCode":"5-02-99-990","particulars":"SAR Hardware","department":"1016","estimatedAmount":76868.96,"referenceNumber":"2026-03-111-A","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-019","accountCode":"5-02-99-990","particulars":"SAR Hardware","department":"1016","estimatedAmount":61645.5,"referenceNumber":"2026-01-003-E","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-020","accountCode":"5-02-99-990","particulars":"EDTECH AIRCON","department":"1021","estimatedAmount":18500,"referenceNumber":"2026-05-204-A","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-021","accountCode":"5-02-99-010","particulars":"Kapawa","department":"1021","estimatedAmount":210000,"referenceNumber":"2026-05-204-C","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-022","accountCode":"5-02-99-990","particulars":"Orot (Flower)","department":"1021","estimatedAmount":3300,"referenceNumber":"2026-06-216-B","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-023","accountCode":"5-02-99-990","particulars":"Guinsiliban Paints (Gargar)","department":"1016","estimatedAmount":3400,"referenceNumber":"2026-06-211-C","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-024","accountCode":"5-02-99-990","particulars":"Nava Paints & Bags (Gargar)","department":"1016","estimatedAmount":25780,"referenceNumber":"2026-06-226-A","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-025","accountCode":"5-02-99-990","particulars":"LegisSummit - Food","department":"1021","estimatedAmount":78400,"referenceNumber":"2026-08-284","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-026","accountCode":"5-02-99-990","particulars":"LegisSummit - Materials","department":"1021","estimatedAmount":8000,"referenceNumber":"2026-08-284-A","dvNumber":"","status":""},
-    {"transactionNumber":"SBO-26-027","accountCode":"","particulars":"","department":"","estimatedAmount":null,"referenceNumber":"","dvNumber":"","status":""}
-  ]
+    "meta":  {
+                 "source":  "2026 Budget Control.xlsx",
+                 "sheet":  "Transactions",
+                 "generatedAt":  "2026-08-12T17:49:24.6323119+08:00",
+                 "recordCount":  31
+             },
+    "transactions":  [
+                         {
+                             "transactionNumber":  "SBO-26-001",
+                             "accountCode":  "TRU Fund",
+                             "particulars":  "Supplies",
+                             "department":  "T/L",
+                             "estimatedAmount":  3920,
+                             "referenceNumber":  "2026-01-002-A",
+                             "dvNumber":  "2026-02-0286",
+                             "status":  "MTO - Pending"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-002",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Trolley Wheels",
+                             "department":  "1021",
+                             "estimatedAmount":  1605,
+                             "referenceNumber":  "2026-01-009-C",
+                             "dvNumber":  "2026-05-0752",
+                             "status":  "MTO - Pending"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-003",
+                             "accountCode":  "5-02-99-010",
+                             "particulars":  "Publication of Ord 1,2,3",
+                             "department":  "1021",
+                             "estimatedAmount":  90000,
+                             "referenceNumber":  "2026-02-014-G",
+                             "dvNumber":  "2026-04-0663",
+                             "status":  "MTO - Released"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-004",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Athletes T-Shirt 1",
+                             "department":  "1016",
+                             "estimatedAmount":  233600,
+                             "referenceNumber":  "2026-01-004-C",
+                             "dvNumber":  "2026-04-0661",
+                             "status":  "MTO - Released"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-005",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Electric Service Line",
+                             "department":  "1021",
+                             "estimatedAmount":  9101,
+                             "referenceNumber":  "2026-03-071",
+                             "dvNumber":  "2026-06-0897",
+                             "status":  "MTO - Released"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-006",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "SB Session Hall - Backdrop",
+                             "department":  "1021",
+                             "estimatedAmount":  22639,
+                             "referenceNumber":  "2026-03-070",
+                             "dvNumber":  "2026-06-0897",
+                             "status":  "MTO - Released"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-007",
+                             "accountCode":  "5-02-03-010",
+                             "particulars":  "Supplies - SINDACO",
+                             "department":  "1021",
+                             "estimatedAmount":  47933,
+                             "referenceNumber":  "2026-03-092",
+                             "dvNumber":  "2026-06-0985",
+                             "status":  "MTO - Pending"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-008",
+                             "accountCode":  "Capital Outlay",
+                             "particulars":  "Laptop - SINDACO",
+                             "department":  "1016",
+                             "estimatedAmount":  100000,
+                             "referenceNumber":  "2026-04-144",
+                             "dvNumber":  "2026-05-0825",
+                             "status":  "MTO - Pending"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-008A",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Laptop - SINDACO",
+                             "department":  "1016",
+                             "estimatedAmount":  56585,
+                             "referenceNumber":  "2026-04-144",
+                             "dvNumber":  "2026-05-0825",
+                             "status":  "MTO - Pending"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-008B",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Gargar - Tshirt",
+                             "department":  "1016",
+                             "estimatedAmount":  19720,
+                             "referenceNumber":  "2026-01-033-C",
+                             "dvNumber":  "",
+                             "status":  "Pending AIR"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-008C",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Gargar - Pump",
+                             "department":  "1016",
+                             "estimatedAmount":  4950,
+                             "referenceNumber":  "2026-01-033-D",
+                             "dvNumber":  "",
+                             "status":  "Pending AIR"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-008D",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Tan - Genesis (Materials)",
+                             "department":  "1016",
+                             "estimatedAmount":  12781,
+                             "referenceNumber":  "2026-03-107-A",
+                             "dvNumber":  "",
+                             "status":  "Pending AIR"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-009",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "NIG Marketing",
+                             "department":  "1021",
+                             "estimatedAmount":  81346.24,
+                             "referenceNumber":  "2026-03-121",
+                             "dvNumber":  "2026-04-0688",
+                             "status":  "MTO - Pending"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-010",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "LITO M. PALMA, JR.",
+                             "department":  "1016",
+                             "estimatedAmount":  5528,
+                             "referenceNumber":  "2026-05-177-A",
+                             "dvNumber":  "",
+                             "status":  "Cancelled"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-011",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Athletes T-Shirt 2",
+                             "department":  "1016",
+                             "estimatedAmount":  37400,
+                             "referenceNumber":  "2026-04-149",
+                             "dvNumber":  "2026-06-1014",
+                             "status":  "MTO - Pending"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-012",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Caningay T-Shirts",
+                             "department":  "1016",
+                             "estimatedAmount":  6300,
+                             "referenceNumber":  "2026-05-161",
+                             "dvNumber":  "2026-06-0992",
+                             "status":  "MTO - Pending"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-013",
+                             "accountCode":  "TRU Fund",
+                             "particulars":  "Body Plate",
+                             "department":  "T/L",
+                             "estimatedAmount":  8850,
+                             "referenceNumber":  "JO",
+                             "dvNumber":  "",
+                             "status":  "Pending FURS"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-014",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "MARJELYN",
+                             "department":  "1021",
+                             "estimatedAmount":  14689,
+                             "referenceNumber":  "2026-05-169",
+                             "dvNumber":  "",
+                             "status":  "Pending AIR"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-015",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "LITO M. PALMA, JR.",
+                             "department":  "1016",
+                             "estimatedAmount":  7215,
+                             "referenceNumber":  "2026-03-081-A",
+                             "dvNumber":  "2026-07-1182",
+                             "status":  "MTO - Pending"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-016",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Genesis",
+                             "department":  "1016",
+                             "estimatedAmount":  6100,
+                             "referenceNumber":  "2026-05-186",
+                             "dvNumber":  "",
+                             "status":  "Pending PO"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-017",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Derecho FA",
+                             "department":  "1021",
+                             "estimatedAmount":  15000,
+                             "referenceNumber":  "N/A",
+                             "dvNumber":  "2026-03-0473",
+                             "status":  "MTO - Pending"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-018",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "SAR Hardware",
+                             "department":  "1016",
+                             "estimatedAmount":  76868.96,
+                             "referenceNumber":  "2026-03-111-A",
+                             "dvNumber":  "",
+                             "status":  "Pending RIS"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-019",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "SAR Hardware",
+                             "department":  "1016",
+                             "estimatedAmount":  61645.5,
+                             "referenceNumber":  "2026-01-003-E",
+                             "dvNumber":  "",
+                             "status":  "Pending DV"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-020",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "EDTECH AIRCON",
+                             "department":  "1021",
+                             "estimatedAmount":  18500,
+                             "referenceNumber":  "2026-05-204-A",
+                             "dvNumber":  "Petty Cash",
+                             "status":  "MTO - Released"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-021",
+                             "accountCode":  "5-02-99-010",
+                             "particulars":  "Kapawa",
+                             "department":  "1021",
+                             "estimatedAmount":  210000,
+                             "referenceNumber":  "2026-05-204-C",
+                             "dvNumber":  "2026-08-1234",
+                             "status":  "For NPP"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-022",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Orot (Flower)",
+                             "department":  "1021",
+                             "estimatedAmount":  3300,
+                             "referenceNumber":  "2026-06-216-B",
+                             "dvNumber":  "Petty Cash",
+                             "status":  "MTO - Released"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-023",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Guinsiliban Paints (Gargar)",
+                             "department":  "1016",
+                             "estimatedAmount":  3400,
+                             "referenceNumber":  "2026-06-211-C",
+                             "dvNumber":  "",
+                             "status":  "Pending AIR"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-024",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "Nava Paints \u0026 Bags (Gargar)",
+                             "department":  "1016",
+                             "estimatedAmount":  25780,
+                             "referenceNumber":  "2026-06-226-A",
+                             "dvNumber":  "",
+                             "status":  "Pending AIR"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-025",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "LegisSummit - Food",
+                             "department":  "1021",
+                             "estimatedAmount":  78400,
+                             "referenceNumber":  "2026-08-284",
+                             "dvNumber":  "2026-08-1230",
+                             "status":  "MTO - Released"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-026",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "LegisSummit - Materials",
+                             "department":  "1021",
+                             "estimatedAmount":  8000,
+                             "referenceNumber":  "2026-08-284-A",
+                             "dvNumber":  "2026-08-1230",
+                             "status":  "MTO - Released"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-027",
+                             "accountCode":  "",
+                             "particulars":  "",
+                             "department":  "",
+                             "estimatedAmount":  null,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  ""
+                         }
+                     ]
 }
