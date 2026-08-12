@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-08-12T17:49:24.6323119+08:00",
+                 "generatedAt":  "2026-08-12T18:43:10.7988235+08:00",
                  "recordCount":  31
              },
     "transactions":  [
@@ -169,7 +169,7 @@
                          {
                              "transactionNumber":  "SBO-26-013",
                              "accountCode":  "TRU Fund",
-                             "particulars":  "Body Plate",
+                             "particulars":  "Body Plate (Jeofrey)",
                              "department":  "T/L",
                              "estimatedAmount":  8850,
                              "referenceNumber":  "JO",
@@ -189,7 +189,7 @@
                          {
                              "transactionNumber":  "SBO-26-015",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "LITO M. PALMA, JR.",
+                             "particulars":  "LITO (Rice)",
                              "department":  "1016",
                              "estimatedAmount":  7215,
                              "referenceNumber":  "2026-03-081-A",
@@ -199,7 +199,7 @@
                          {
                              "transactionNumber":  "SBO-26-016",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "Genesis",
+                             "particulars":  "Genesis (Pump \u0026 HDPE Pipe)",
                              "department":  "1016",
                              "estimatedAmount":  6100,
                              "referenceNumber":  "2026-05-186",
@@ -249,7 +249,7 @@
                          {
                              "transactionNumber":  "SBO-26-021",
                              "accountCode":  "5-02-99-010",
-                             "particulars":  "Kapawa",
+                             "particulars":  "Kapawa (7 Ords)",
                              "department":  "1021",
                              "estimatedAmount":  210000,
                              "referenceNumber":  "2026-05-204-C",
@@ -259,7 +259,7 @@
                          {
                              "transactionNumber":  "SBO-26-022",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "Orot (Flower)",
+                             "particulars":  "Orot (Flower Wreath)",
                              "department":  "1021",
                              "estimatedAmount":  3300,
                              "referenceNumber":  "2026-06-216-B",
