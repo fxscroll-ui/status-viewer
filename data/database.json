@@ -2,14 +2,14 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-08-17T16:59:57.0969646+08:00",
+                 "generatedAt":  "2026-08-17T19:14:51.1803312+08:00",
                  "recordCount":  30
              },
     "transactions":  [
                          {
                              "transactionNumber":  "SBO-26-001",
                              "accountCode":  "TRU Fund",
-                             "particulars":  "Supplies",
+                             "particulars":  "TRU Supplies",
                              "department":  "T/L",
                              "estimatedAmount":  3920,
                              "referenceNumber":  "2026-01-002-A",
