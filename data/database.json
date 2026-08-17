@@ -2,8 +2,8 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-08-12T18:43:10.7988235+08:00",
-                 "recordCount":  31
+                 "generatedAt":  "2026-08-17T16:59:57.0969646+08:00",
+                 "recordCount":  30
              },
     "transactions":  [
                          {
@@ -99,7 +99,7 @@
                          {
                              "transactionNumber":  "SBO-26-008B",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "Gargar - Tshirt",
+                             "particulars":  "SB Gargar - Tshirt",
                              "department":  "1016",
                              "estimatedAmount":  19720,
                              "referenceNumber":  "2026-01-033-C",
@@ -109,7 +109,7 @@
                          {
                              "transactionNumber":  "SBO-26-008C",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "Gargar - Pump",
+                             "particulars":  "SB Gargar - Pump",
                              "department":  "1016",
                              "estimatedAmount":  4950,
                              "referenceNumber":  "2026-01-033-D",
@@ -119,7 +119,7 @@
                          {
                              "transactionNumber":  "SBO-26-008D",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "Tan - Genesis (Materials)",
+                             "particulars":  "SB Tan - Genesis (Materials)",
                              "department":  "1016",
                              "estimatedAmount":  12781,
                              "referenceNumber":  "2026-03-107-A",
@@ -149,7 +149,7 @@
                          {
                              "transactionNumber":  "SBO-26-011",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "Athletes T-Shirt 2",
+                             "particulars":  "Athletes T-Shirt 2 (VM)",
                              "department":  "1016",
                              "estimatedAmount":  37400,
                              "referenceNumber":  "2026-04-149",
@@ -159,7 +159,7 @@
                          {
                              "transactionNumber":  "SBO-26-012",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "Caningay T-Shirts",
+                             "particulars":  "Caningay T-Shirts (Jeofrey)",
                              "department":  "1016",
                              "estimatedAmount":  6300,
                              "referenceNumber":  "2026-05-161",
@@ -179,7 +179,7 @@
                          {
                              "transactionNumber":  "SBO-26-014",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "MARJELYN",
+                             "particulars":  "MARJELYN (Supplies)",
                              "department":  "1021",
                              "estimatedAmount":  14689,
                              "referenceNumber":  "2026-05-169",
@@ -239,7 +239,7 @@
                          {
                              "transactionNumber":  "SBO-26-020",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "EDTECH AIRCON",
+                             "particulars":  "EDTECH AIRCON (Orot)",
                              "department":  "1021",
                              "estimatedAmount":  18500,
                              "referenceNumber":  "2026-05-204-A",
@@ -249,7 +249,7 @@
                          {
                              "transactionNumber":  "SBO-26-021",
                              "accountCode":  "5-02-99-010",
-                             "particulars":  "Kapawa (7 Ords)",
+                             "particulars":  "Kapawa (Publication of 7 Ords)",
                              "department":  "1021",
                              "estimatedAmount":  210000,
                              "referenceNumber":  "2026-05-204-C",
@@ -289,7 +289,7 @@
                          {
                              "transactionNumber":  "SBO-26-025",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "LegisSummit - Food",
+                             "particulars":  "Legislative Summit - Food",
                              "department":  "1021",
                              "estimatedAmount":  78400,
                              "referenceNumber":  "2026-08-284",
@@ -299,22 +299,12 @@
                          {
                              "transactionNumber":  "SBO-26-026",
                              "accountCode":  "5-02-99-990",
-                             "particulars":  "LegisSummit - Materials",
+                             "particulars":  "Legislative Summit - Materials",
                              "department":  "1021",
                              "estimatedAmount":  8000,
                              "referenceNumber":  "2026-08-284-A",
                              "dvNumber":  "2026-08-1230",
                              "status":  "MTO - Released"
-                         },
-                         {
-                             "transactionNumber":  "SBO-26-027",
-                             "accountCode":  "",
-                             "particulars":  "",
-                             "department":  "",
-                             "estimatedAmount":  null,
-                             "referenceNumber":  "",
-                             "dvNumber":  "",
-                             "status":  ""
                          }
                      ]
 }
