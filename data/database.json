@@ -2,7 +2,7 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-08-17T19:14:51.1803312+08:00",
+                 "generatedAt":  "2026-08-18T09:17:33.0032137+08:00",
                  "recordCount":  30
              },
     "transactions":  [
@@ -34,7 +34,7 @@
                              "estimatedAmount":  90000,
                              "referenceNumber":  "2026-02-014-G",
                              "dvNumber":  "2026-04-0663",
-                             "status":  "MTO - Released"
+                             "status":  "Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-004",
@@ -44,7 +44,7 @@
                              "estimatedAmount":  233600,
                              "referenceNumber":  "2026-01-004-C",
                              "dvNumber":  "2026-04-0661",
-                             "status":  "MTO - Released"
+                             "status":  "Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-005",
@@ -54,7 +54,7 @@
                              "estimatedAmount":  9101,
                              "referenceNumber":  "2026-03-071",
                              "dvNumber":  "2026-06-0897",
-                             "status":  "MTO - Released"
+                             "status":  "Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-006",
@@ -64,7 +64,7 @@
                              "estimatedAmount":  22639,
                              "referenceNumber":  "2026-03-070",
                              "dvNumber":  "2026-06-0897",
-                             "status":  "MTO - Released"
+                             "status":  "Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-007",
@@ -169,7 +169,7 @@
                          {
                              "transactionNumber":  "SBO-26-013",
                              "accountCode":  "TRU Fund",
-                             "particulars":  "Body Plate (Jeofrey)",
+                             "particulars":  "TRU Body Plate (Jeofrey)",
                              "department":  "T/L",
                              "estimatedAmount":  8850,
                              "referenceNumber":  "JO",
@@ -244,7 +244,7 @@
                              "estimatedAmount":  18500,
                              "referenceNumber":  "2026-05-204-A",
                              "dvNumber":  "Petty Cash",
-                             "status":  "MTO - Released"
+                             "status":  "Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-021",
@@ -264,7 +264,7 @@
                              "estimatedAmount":  3300,
                              "referenceNumber":  "2026-06-216-B",
                              "dvNumber":  "Petty Cash",
-                             "status":  "MTO - Released"
+                             "status":  "Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-023",
@@ -294,7 +294,7 @@
                              "estimatedAmount":  78400,
                              "referenceNumber":  "2026-08-284",
                              "dvNumber":  "2026-08-1230",
-                             "status":  "MTO - Released"
+                             "status":  "Released"
                          },
                          {
                              "transactionNumber":  "SBO-26-026",
@@ -304,7 +304,7 @@
                              "estimatedAmount":  8000,
                              "referenceNumber":  "2026-08-284-A",
                              "dvNumber":  "2026-08-1230",
-                             "status":  "MTO - Released"
+                             "status":  "Released"
                          }
                      ]
 }
