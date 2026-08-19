@@ -2,8 +2,8 @@
     "meta":  {
                  "source":  "2026 Budget Control.xlsx",
                  "sheet":  "Transactions",
-                 "generatedAt":  "2026-08-18T11:36:09.0529515+08:00",
-                 "recordCount":  30
+                 "generatedAt":  "2026-08-19T16:16:55.3800078+08:00",
+                 "recordCount":  31
              },
     "transactions":  [
                          {
@@ -114,7 +114,7 @@
                              "estimatedAmount":  4950,
                              "referenceNumber":  "2026-01-033-D",
                              "dvNumber":  "",
-                             "status":  "Pending AIR"
+                             "status":  "Pending RIS"
                          },
                          {
                              "transactionNumber":  "SBO-26-008D",
@@ -305,6 +305,16 @@
                              "referenceNumber":  "2026-08-284-A",
                              "dvNumber":  "2026-08-1230",
                              "status":  "Released"
+                         },
+                         {
+                             "transactionNumber":  "SBO-26-027",
+                             "accountCode":  "5-02-99-990",
+                             "particulars":  "PROGRESS HOME (Cubicles)",
+                             "department":  "1021",
+                             "estimatedAmount":  53000,
+                             "referenceNumber":  "",
+                             "dvNumber":  "",
+                             "status":  "Pending PPMP"
                          }
                      ]
 }
